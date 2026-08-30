@@ -1,0 +1,8 @@
+__pycache__/
+*.pth
+*.pt
+*.onnx
+*.h5
+data/
+datasets/
+logs/
